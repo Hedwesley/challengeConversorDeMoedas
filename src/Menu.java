@@ -10,8 +10,8 @@ public class Menu {
                             "6) Peso colombiano =>> Dólar\n" +
                             "7) Dólar =>> Euro\n" +
                             "8) Euro ==> Dólar\n" +
-                            "9) BRL =>> JPY\n" +
-                            "10) JPY =>> USD\n" +
+                            "9) Real brasileiro =>> Iene japonês\n" +
+                            "10) Iene japonês =>> Dólar\n" +
                             "0) Sair");
         System.out.println("*************************************************************");
         System.out.println("Escolha uma opção válida");
