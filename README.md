@@ -13,14 +13,14 @@ Este projeto é minha solução para o desafio da formação **Java e Orientaç�
 - **Interação via Console**: O programa apresenta um menu com opções simples e interativas, permitindo que o usuário realize suas conversões de maneira simples pelo console.
 - **Uso de API Externa**: O programa se conecta à [Exchange Rate API](https://www.exchangerate-api.com//) para pegar as taxas de câmbio atualizadas.
 - Conversão entre as Moedas:
-    ARS - Peso argentino
-    BOB - Boliviano boliviano
-    BRL - Real brasileiro
-    CLP - Peso chileno
-    COP - Peso colombiano
-    USD - Dólar americano .
-    EUR - Euro europeu
-    YPY - Iene japonês
+ARS - Peso argentino<br>
+BOB - Boliviano boliviano<br>
+BRL - Real brasileiro<br>
+CLP - Peso chileno<br>
+COP - Peso colombiano<br>
+USD - Dólar americano<br>
+EUR - Euro europeu<br>
+YPY - Iene japonês<br>
 
 Atualização automática das taxas de câmbio.
 
