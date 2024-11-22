@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class CotacaoService {
     public Double buscaCotacao(String moeda,String moedaCotacao) {
-        URI endereco = URI.create("https://v6.exchangerate-api.com/v6/c431bb7d0b1c185980d87fa0/latest/" + moedaCotacao.trim().toLowerCase());
+        URI endereco = URI.create("https://v6.exchangerate-api.com/v6/**APIKEY**/latest/" + moedaCotacao.trim().toLowerCase());
 
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(endereco)
