@@ -4,7 +4,7 @@
 - [📢 Descrição](#-Descrição)
 - [📌 Principais Características](#-Principais-Características)
 - [⚙️ Como executar o projeto](#-Como-executar-o-projeto)
-- [🎖️ Badge](#-🎖️Badge)
+- [🎖️ Badge](#-Badge)
 
 ## 📢 Descrição
 Este projeto é minha solução para o desafio da formação **Java e Orientação a Objetos G7 - ONE** do programa ONE - Oracle Next Education! O objetivo é criar um conversor de moedas que oferece múltiplas opções de conversão, utilizando taxas de câmbio atualizadas por meio de uma API externa, onde os usuários podem escolher entre as 10 opções de conversões moedas e realizar suas conversões de forma rápida.
